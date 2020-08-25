@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Industries')
+@section('title', 'Create Industry / Company')
 
 @section('content')
     <div class="row row-cols-12">

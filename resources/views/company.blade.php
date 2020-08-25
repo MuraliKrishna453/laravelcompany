@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Industries')
+@section('title', 'Company')
 
 @section('content')
 @if(isset($company))
